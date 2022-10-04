@@ -53,7 +53,7 @@ const ExerciseDetail = () => {
   }, [id]);
 
   return (
-    <Box>
+    <Box id="exercises">
       <Detail exerciseDetail={exerciseDetail} />
       <ExerciseVideos
         exerciseVideos={exerciseVideos}
