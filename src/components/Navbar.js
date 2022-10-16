@@ -21,7 +21,7 @@ const Navbar = () => {
       }}
       px="20px"
     >
-      <Link to="/">
+      <Link to="/GYM_with_React">
         <img
           src={Logo}
           alt="logo"
@@ -31,7 +31,7 @@ const Navbar = () => {
 
       <Stack direction="row" gap="40px" fontSize="24px" alignItems="flex-end">
         <Link
-          to="/"
+          to="/GYM_with_React"
           style={{
             textDecoration: "none",
             color: "#3A1212",
@@ -41,7 +41,7 @@ const Navbar = () => {
           Home
         </Link>
         <a
-          href="#exercises"
+          href="/GYM_with_React/#exercises"
           style={{ textDecoration: "none", color: "#3A1212" }}
         >
           Exercises
