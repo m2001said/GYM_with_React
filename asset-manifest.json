@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GYM_with_React/static/css/main.24e10c94.css",
-    "main.js": "/GYM_with_React/static/js/main.f2b58588.js",
+    "main.js": "/GYM_with_React/static/js/main.9ff092c4.js",
     "static/media/banner.jpg": "/GYM_with_React/static/media/banner.0b42432b852470fc62af.jpg",
     "static/media/gym.png": "/GYM_with_React/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/GYM_with_React/index.html",
     "main.24e10c94.css.map": "/GYM_with_React/static/css/main.24e10c94.css.map",
-    "main.f2b58588.js.map": "/GYM_with_React/static/js/main.f2b58588.js.map"
+    "main.9ff092c4.js.map": "/GYM_with_React/static/js/main.9ff092c4.js.map"
   },
   "entrypoints": [
     "static/css/main.24e10c94.css",
-    "static/js/main.f2b58588.js"
+    "static/js/main.9ff092c4.js"
   ]
 }
