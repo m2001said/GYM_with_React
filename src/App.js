@@ -9,11 +9,12 @@ function App() {
   return (
     <Box width="400px" sx={{ width: { xl: "1488px" } }} m="auto">
       <Navbar />
+      {/* <Home /> */}
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/GYM_with_React" element={<Home />} />
         <Route
           // /GYM_with_React
-          path="/exercise/:id"
+          path="/GYM_with_React/exercise/:id"
           element={<ExerciseDetail />}
         />
       </Routes>
